@@ -1,3 +1,3 @@
 # Hi there I'm Bruce 👋
 
-![Banner]()
+![Banner](banner for github.jpeg)
